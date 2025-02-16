@@ -31,7 +31,9 @@ Estás frente al arco. La afición grita tu nombre.
 Tienes tres opciones:
 
 [1] Disparar con potencia.
+
 [2] Pasar el balón al compañero mejor posicionado.
+
 [3] Intentar un regate arriesgado.
 
 ¿Qué harás?
